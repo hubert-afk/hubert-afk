@@ -1,29 +1,26 @@
 Hi there 👋
-I'm student I am a student at the Cracow University of Technology in the field of electrical engineering and automation.
 
-NOW 
-✨ Im looking for job as a Software Tester 👨‍💻;
 
-⚙️ The tools I use as a beginner; Python 3.8, Selenium, Git, Jira, SQL.
+👋 About Me
+Application Engineer | Embedded Systems | Automotive | Control systems
 
-🌱 Learning; PyTest, unittest, Postman
 
-🏢 I'm currently working at FTG, Cracow e-commerce company where we implement the WMS system.
-In the team I care about;
-- Functional tests
-- E2E tests
-- Integration test
-- Bug reporting
-- Reading system documentation
-- Creating training files
-- System configuration as required
+🚗 What I Do
+Field Application Engineer @ (agriculture, automotive, ISOBUS, J1939, CAN)
 
-🌍 I visit often;
-- testerzy.pl
-- testuj.pl
-- pwicherski.gitbook.io/testowanie-oprogramowania
-- Youtube; testuj.pl
-- Youtube; @TechnikaProgramowania
+Electrical & Automation major at @ Politechnika Krakowska 
+
+Focus: embedded systems, microcontroller programming (C), electronics, communication protocols
+
+
+💻 Tech Stack
+C code, matlab
+
+CAN, CANopen, J1939, ISOBUS, RS232, RS485
+
+Embedded systems,
+
+Raspberry Pi, IoT,
 
 
 📫 How to reach me;
